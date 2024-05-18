@@ -1,1 +1,2 @@
-# Madhav-Store-Ecommerce-Dashboard_Power-Bi
+### Madhav-Store-Ecommerce-Dashboard_Power-Bi
+A sales dashboard made with Power BI shows colorful pictures and numbers about how much stores make profit. It helps managers quickly see important information, like how much money they're making, what products are popular, and where they're selling the most & which states gives more profit. This helps them make smart decisions to sell more and make their business better.
